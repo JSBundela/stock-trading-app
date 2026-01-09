@@ -65,3 +65,4 @@ A full-stack algorithmic trading platform built with FastAPI (Backend) and React
 # stock-trading-app
 # stock-trading-app
 # stock-trading-app
+# stock-trading-app
