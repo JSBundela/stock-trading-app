@@ -62,7 +62,4 @@ A full-stack algorithmic trading platform built with FastAPI (Backend) and React
 
 - `backend/app`: Core logic (clean architecture).
 - `frontend/src`: UI components (React).
-# stock-trading-app
-# stock-trading-app
-# stock-trading-app
-# stock-trading-app
+
